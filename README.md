@@ -6,7 +6,7 @@ Alright, let’s be real. Most IDEs are bloated and eat up your RAM like crazy. 
 
 On the other hand, text editors are much lighter, but they lack the built-in tools that make coding easier. 
 
-- **IDE (Integrated Development Environment)** → Comes with debugging, auto-complete, and compilers, but it’s usually slow and heavy (e.g., PyCharm, Rider).
+- **IDE (Integrated Development Environment)** → Comes with debugging, auto-complete, and compilers, but it’s usually slow and heavy (e.g., PyCharm, Rider) other IDE examples like CodeBlocks, Eclipse, Visual Studio.
 - **Text Editor** → Simple, fast, and lets you add only what you need (e.g., Notepad, VSCode).
 
 VSCode is the best of both worlds—lightweight like a text editor but powerful like an IDE when you install the right extensions.
