@@ -85,11 +85,19 @@ Let’s assume you have installed the Python extension and are ready to write co
 
 To navigate and manage files through the terminal, you need to understand a few basic commands:
 
-- **`cd <folder>`**: Change directory (move into a folder).
-- **`cd .`**: Stays in the current directory (does nothing).
-- **`cd ..`**: Moves up one level to the parent directory.
-- **`ls`** (List): Displays all files and folders in the current directory.
+- **`cd <folder>`** – Change directory (move into a folder).
+- **`cd .`** – Stays in the current directory (does nothing).
+- **`cd ..`** – Moves up one level to the parent directory.
+- **`ls`** (List) – Displays all files and folders in the current directory.
   - **`ls`** works on Windows if you use Git Bash or PowerShell.
   - On Command Prompt, use **`dir`** instead.
 
-These commands help you navigate your file system efficiently when working with VSCode.
+### ⚡ Pro Tip: Open VSCode Instantly from the Terminal
+
+Instead of manually opening VSCode and searching for your project, just navigate to your folder using `cd`, then type:
+
+```sh
+code .
+```
+
+This instantly launches VSCode in the current folder—no extra clicks needed. Try it and save yourself time!
