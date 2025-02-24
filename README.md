@@ -2,11 +2,11 @@
 
 ## IDE vs. Text Editor – What’s the Deal?
 
-Alright, let’s be real. Most IDEs are bloated and eat up your RAM like crazy. Ever opened PyCharm and suddenly your laptop sounds like a jet engine? Yeah, exactly. 
+Alright, let’s be real. Most IDEs are bloated and eat up your RAM like crazy. Ever opened PyCharm and suddenly your laptop sounds like a jet engine? Yeah, exactly.
 
-On the other hand, text editors are much lighter, but they lack the built-in tools that make coding easier. 
+On the other hand, text editors are much lighter, but they lack the built-in tools that make coding easier.
 
-- **IDE (Integrated Development Environment)** → Comes with debugging, auto-complete, and compilers, but it’s usually slow and heavy (e.g., PyCharm, Rider) other IDE examples like CodeBlocks, Eclipse, Visual Studio.
+- **IDE (Integrated Development Environment)** → Comes with debugging, auto-complete, and compilers, but it’s usually slow and heavy (e.g., PyCharm, Eclipse, Visual Studio, CodeBlocks).
 - **Text Editor** → Simple, fast, and lets you add only what you need (e.g., Notepad, VSCode).
 
 VSCode is the best of both worlds—lightweight like a text editor but powerful like an IDE when you install the right extensions.
@@ -62,7 +62,7 @@ VSCode lets you change themes so it doesn’t look boring.
 ### 3️⃣ Set Up Auto-Save
 
 - Open **File → Preferences → Settings**
-- Search for **Auto Save** and enable it (so you don’t lose work like an idiot).
+- Search for **Auto Save** and enable it (so you don’t lose work unintentionally).
 
 ---
 
@@ -73,7 +73,7 @@ VSCode lets you change themes so it doesn’t look boring.
 - A **file** is just one document (like a .txt, .py, or .cpp file).
 - A **folder** holds multiple files.
 
-💡 **TIP:** Keep your files organized. If your desktop looks like a war zone, do yourself a favor and use folders properly.
+**TIP:** Keep your files organized. If your desktop looks like a war zone, do yourself a favor and use folders properly.
 
 ### **Python Example**
 
@@ -110,5 +110,5 @@ Boom. VSCode opens **right there** in the correct folder—no clicking needed. O
 
 ---
 
-That’s it! Now go set up VSCode and start coding like a pro.
+That’s it! Now go set up VSCode and start coding like a regular human.
 
