@@ -161,3 +161,7 @@ Boom. VSCode opens **right there** in the correct folder—no clicking needed. O
 ---
 
 That’s it! Now go set up VSCode and start coding like a regular human.
+
+---
+## Author
+# Ahmed Ghaith
