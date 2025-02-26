@@ -18,14 +18,14 @@
 
 ## Text Editors vs. IDEs – Why Most IDEs Suck
 
-Alright, let’s talk about the difference between text editors and IDEs (Integrated Development Environments), and why most IDEs are bloated resource-hogging nightmares.
+Let’s talk about the difference between text editors and IDEs (Integrated Development Environments), and why most IDEs are nightmares.
 
 ### Text Editors – Fast, Clean, and Simple
 A text editor is basically a glorified Notepad, but way more powerful. It lets you write and edit code without slowing your computer to a crawl. Some examples:
 
 - **Notepad++** – Basic but solid.
-- **Sublime Text** – Smooth, but kinda pricey.
-- **VSCode** – The absolute best. More on that in a sec.
+- **Sublime Text** – Smooth, but pricey.
+- **VSCode** – The best. More on that in a sec.
 
 ### IDEs – The Worst Roommates
 IDEs come with everything built-in—code editor, debugger, compiler, version control, and a bunch of stuff you probably don’t need. Sounds good in theory, right? **Wrong.**
@@ -48,7 +48,7 @@ If your IDE is **slower than your thought process**, it’s a problem.
 ## VSCode – The Perfect Middle Ground
 VSCode is the best of both worlds: **lightweight like a text editor, powerful like an IDE (without the bloat).**
 
-- **Fast and clean** – Opens instantly, doesn’t make your system lag.
+- **Fast and clean** – Opens instantly, and doesn’t make your system lag.
 - **Minimal RAM usage** – Won’t choke your computer like PyCharm.
 - **Customizable** – Add only what you need, nothing more.
 - **Works for almost every programming language:** C, C++, C#, Java, SQL, Python, and more.
@@ -58,7 +58,7 @@ VSCode is the best of both worlds: **lightweight like a text editor, powerful li
 ## Installing VSCode – You’re Not Ready to Code Yet
 Alright, you installed VSCode. Good. But you’re **not ready to start coding yet.**
 
-### Step 1: Install Extensions (This is Super Easy, Don’t Worry)
+### Step 1: Install Extensions (This is Very Easy, Don’t Worry)
 VSCode doesn’t come with built-in support for programming languages. If you try to write Python or C++, it won’t even recognize the syntax properly. But don’t panic—installing extensions takes seconds.
 
 #### How to Install an Extension
@@ -135,21 +135,18 @@ These are the must-haves:
 - **Code Spell Checker** → Fixes typos in variable names and comments (because spelling mistakes are embarrassing).
 - **Error Lens** → Highlights errors as you type, so you don’t have to wait until you run the code to find mistakes.
 
-✅ Install these from the Extensions Marketplace (`Ctrl + Shift + X`).
+ Install these from the Extensions Marketplace (`Ctrl + Shift + X`).
 
-### Step 5: Customize Your Theme (Because Default VSCode is Boring)
+### Step 5: Customize Your Theme (Because Default VSCode is Dull)
 You’re going to be looking at your editor for hours—make sure it doesn’t strain your eyes.
 
 #### How to Change Your Theme
 1. Open **File → Preferences → Color Theme**
 2. Pick a built-in one (like **Dark+** or **Light+**) or download a new one.
 
-#### Try out popular themes like:
-- **Dracula** (dark, great for low-light)
-- **Monokai** (a classic developer favorite)
-- **One Dark Pro** (simple and clean)
+#### Just Search For VSCode Themes And You Are Sure To Find Something That Suits Your Taste.
 
-## ⚡ Pro Tip: Open VSCode from the Terminal Like a Pro
+## ⚡ Open VSCode from the Terminal
 Instead of opening VSCode, clicking around, and searching for your project, just open a terminal, go to your project folder using `cd`, and type:
 
 ```sh
